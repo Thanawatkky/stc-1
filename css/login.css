@@ -1,0 +1,5 @@
+.card{
+    background-image: url(../img\background\login.png);
+    background-size: contain;
+    background-repeat: repeat;
+}
